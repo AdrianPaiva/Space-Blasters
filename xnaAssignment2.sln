@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xnaAssignment2", "xnaAssignment2\xnaAssignment2\xnaAssignment2.csproj", "{00C5A0F3-A290-4E47-8576-01AD897663E7}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "xnaAssignment2Content", "xnaAssignment2\xnaAssignment2Content\xnaAssignment2Content.contentproj", "{E9C593FA-26A2-4594-8F26-6FD7E3CB02B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C5A0F3-A290-4E47-8576-01AD897663E7}.Debug|x86.ActiveCfg = Debug|x86
+		{00C5A0F3-A290-4E47-8576-01AD897663E7}.Debug|x86.Build.0 = Debug|x86
+		{00C5A0F3-A290-4E47-8576-01AD897663E7}.Release|x86.ActiveCfg = Release|x86
+		{00C5A0F3-A290-4E47-8576-01AD897663E7}.Release|x86.Build.0 = Release|x86
+		{E9C593FA-26A2-4594-8F26-6FD7E3CB02B6}.Debug|x86.ActiveCfg = Debug|x86
+		{E9C593FA-26A2-4594-8F26-6FD7E3CB02B6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
